@@ -6,7 +6,7 @@ public class Main {
         System.out.println(area(-5.0));
     }
 
-    
+
     public static boolean shouldWakeUp(boolean isBarking, int clock) {
 
         boolean rreturn = false;
